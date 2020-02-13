@@ -1,0 +1,1 @@
+{"contents": [[{"reason": "tel counter", "text": "Phone", "boxes": [327, 98, 356, 98, 356, 109, 327, 109], "colour": 0, "prob": 0.8}, {"reason": "tel counter", "text": "(209)", "boxes": [360, 98, 387, 98, 388, 108, 360, 109], "colour": 0, "prob": 0.8}, {"reason": "tel counter", "text": "333-9750", "boxes": [391, 97, 432, 95, 433, 106, 391, 108], "colour": 0, "prob": 0.8}]]}
